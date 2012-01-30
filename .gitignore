@@ -1,0 +1,6 @@
+**/*.asv
+**/*.mat
+*.asv
+*.mat
+data*
+*.fch
